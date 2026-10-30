@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+background.jpg
+.env
+.vscode/
+.idea/
+models/*.task
+models/*.tflite
